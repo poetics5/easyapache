@@ -15,5 +15,6 @@ default['easyapache']['yaml'] = ''
 Usage
 =====
 Copy your master yaml file to easyapache/files/default/
+
 Define the attribute to match name of your yaml file
 
