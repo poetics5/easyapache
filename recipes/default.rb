@@ -29,6 +29,6 @@ end
 
 bash "easyapache build" do
   code <<-EOH
-  /scripts/easyapache --profile=#{yaml} --build
+  /scripts/easyapache --profile=#{yaml} --build --output-syspkg-details
   EOH
 end
