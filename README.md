@@ -8,7 +8,9 @@ cPanel
 
 Attributes
 ==========
+```
 default['easyapache']['yaml'] = ''
+```
 
 Usage
 =====
